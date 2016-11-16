@@ -1,0 +1,5 @@
+body{
+    background-color: pink;
+    color: green;
+    font-variant-east-asian: normal;
+}
