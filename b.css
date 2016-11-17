@@ -3,3 +3,27 @@ body{
     color: green;
 }
 
+h1{
+    text-size: 6em;
+    text-align: center;
+    color: red;
+    text-shadow: 3px 3px black;
+}
+
+h2{
+    text-size: 20em;
+    text-align: right;
+    text-shadow: -2px -2px white;
+}
+
+ul{
+    text-align: center;
+    color: purple;
+}
+
+h3{
+    color:blue;
+}
+
+
+
