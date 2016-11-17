@@ -1,0 +1,23 @@
+.extreme{
+    color: red;
+    background-color: green;
+}
+
+.navzone{
+    color: yellow;
+    background-color: purple;
+    text-align: center;
+}
+
+.content{
+    color: blue;
+    background-color: orange;
+}
+
+body{
+    background-color: black;
+    text-shadow: -100px 100px white;
+    text-align: right;
+    font-size: 20pt;
+}
+

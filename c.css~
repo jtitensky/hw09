@@ -1,0 +1,7 @@
+.navzone{
+    color: red;
+}
+
+h3{
+    color: blue;
+}
