@@ -22,3 +22,14 @@ h3{
 h2{
     color: yellow;
 }
+
+.extreme{
+    background-color: black;
+    text-shadow: -100px 100px white;
+    text-align: right;
+    font-size: 20pt;
+}
+
+.prose{
+    background-color: darkblue;
+}

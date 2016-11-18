@@ -4,14 +4,14 @@ body{
 }
 
 h1{
-    text-size: 6em;
+    font-size: 6em;
     text-align: center;
     color: red;
-    text-shadow: 3px 3px black;
+    text-shadow: 8px -8px black;
 }
 
 h2{
-    text-size: 20em;
+    font-size: 8em;
     text-align: right;
     text-shadow: -2px -2px white;
 }
@@ -25,5 +25,12 @@ h3{
     color:blue;
 }
 
+.content{
+    background-color: orange;
+    font-size: 2em;
+}
 
-
+.extreme{
+    background-color: blue;
+    color: white;
+}
